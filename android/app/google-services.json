@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827462533030",
+    "project_id": "cobachat-reactnative",
+    "storage_bucket": "cobachat-reactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827462533030:android:c856f4fdcba697d0cb5967",
+        "android_client_info": {
+          "package_name": "com.rnfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827462533030-uoddvjcob63felruo5qq676ec9dp9cg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSMFwHLazZkE2ATLfUJt-PrcHXSfxqits"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827462533030-uoddvjcob63felruo5qq676ec9dp9cg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
